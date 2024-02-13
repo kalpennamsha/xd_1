@@ -1,0 +1,66 @@
+
+.container{
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+  justify-content: space-around;
+  padding: 20px;
+}
+.header {
+  background-color: yellowgreen;
+  text-align: center;
+}
+
+.header .btn {
+ background-color: blue;
+ color: white;
+}
+
+.img {
+    width: 100%;
+    height: 200px; 
+}
+
+.parent-div{
+  margin: auto;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  
+}
+
+.child{
+   margin: auto;
+   display: flex;
+   width: 300px;
+   flex-direction: column;
+   align-content: space-between;
+   align-items: center;
+}
+    
+
+.sc2 {
+  text-align: center;
+  background-color: orange;
+  padding: 20px;
+
+}
+.box2 {
+  display: flex;
+  margin: auto;
+  text-align: center;
+  justify-content: space-around;
+}
+.btn{
+  background-color: blue;
+ color: white;
+
+}
+
+.footer {
+  padding: 10px;
+  text-align: center;
+}
+
+
+
